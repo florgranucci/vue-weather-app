@@ -1,7 +1,7 @@
 # Weather app with VueJs
 
 <div>
-  <img src='https://i.ibb.co/hR2Vr01/vue-app-2.png' alt='img-1' />
+  <img width='200' heigth='500' src='https://i.ibb.co/hR2Vr01/vue-app-2.png' alt='img-1' />
    <img src='https://i.ibb.co/6J2YNyv/vue-app-1.png' alt='img-2' />
 </div>
 
