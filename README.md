@@ -1,4 +1,4 @@
-# vue-weather
+# Weather app with VueJs
 
 <div>
   <img src='https://i.ibb.co/hR2Vr01/vue-app-2.png' alt='img-1' />
