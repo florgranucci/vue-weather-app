@@ -1,5 +1,5 @@
 <h1 align='center'> Weather app with VueJs </h1>
-## You can try it here: https://vuejs-weatherapp.netlify.app/ 
+<h4> You can try it here: https://vuejs-weatherapp.netlify.app/ </h4>
 </br>
 </br>
 <div align='center'>
