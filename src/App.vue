@@ -36,7 +36,7 @@ export default {
   name: "App",
   data() {
     return {
-      api_key: API_URL.process.env,
+      api_key: "07dca15171d031632e0525d4def857e4",
       url_base: "https://api.openweathermap.org/data/2.5/",
       query: "",
       weather: {},
@@ -101,16 +101,21 @@ body {
 
 main {
   min-height: 100vh;
+  width: 100%;
   padding: 25px;
   background-image: linear-gradient(
     to bottom,
     rgba(0, 0, 0, 0.25),
     rgba(0, 0, 0, 0.75)
   );
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+  align-items: center;
 }
 
 .search-box {
-  width: 100%;
+  width: 60%;
   margin-bottom: 30px;
 }
 
